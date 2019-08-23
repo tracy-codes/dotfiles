@@ -1,0 +1,50 @@
+{
+    "workbench.iconTheme": "seti",
+    "workbench.colorTheme": "Dracula.min",
+    "window.zoomLevel": -1,
+    "editor.cursorSmoothCaretAnimation": true,
+    "git.enableSmartCommit": true,
+    "editor.wordWrap": "on",
+    "editor.tabCompletion": "on",
+    "prettier.eslintIntegration": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "editor.fontWeight": "500",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "emmet.includeLanguages": {
+      "liquid": "html"
+    },
+    "workbench.sideBar.location": "right",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.editor.enablePreview": false,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    },
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.insertSpaces": false,
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "gitlens.insiders": true,
+    "[markdown]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liquid.format": true,
+    "prettier.tabWidth": 4,
+    "prettier.useTabs": true,
+    "vetur.format.options.tabSize": 4,
+  }
